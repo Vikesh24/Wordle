@@ -1,0 +1,11 @@
+break
+check
+check
+check
+guess
+round
+turns
+words
+words
+words
+words
